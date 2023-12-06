@@ -1,4 +1,4 @@
-# My Portfolio
+<!-- # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
@@ -60,4 +60,4 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 5. Open a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
